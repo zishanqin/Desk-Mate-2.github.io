@@ -16,7 +16,49 @@
   position:absolute;
   z-index:0;
 }
+#u75_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:894px;
+  height:402px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
+  font-style:normal;
+  font-size:23px;
+}
 #u75 {
+  border-width:0px;
+  position:absolute;
+  left:24px;
+  top:107px;
+  width:894px;
+  height:402px;
+  display:flex;
+  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
+  font-style:normal;
+  font-size:23px;
+}
+#u75 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u75_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u76 {
   border-width:0px;
   position:absolute;
   left:24px;
@@ -24,7 +66,7 @@
   width:894px;
   height:34px;
 }
-#u75_menu {
+#u76_menu {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -36,46 +78,13 @@
   -ms-transform:rotate(NaNdeg);
   transform:rotate(NaNdeg);
 }
-#u76 {
+#u77 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:894px;
   height:34px;
-}
-#u77_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:224px;
-  height:34px;
-}
-#u77 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:224px;
-  height:34px;
-  display:flex;
-  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-}
-#u77 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u77_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
 }
 #u78_img {
   border-width:0px;
@@ -88,7 +97,7 @@
 #u78 {
   border-width:0px;
   position:absolute;
-  left:224px;
+  left:0px;
   top:0px;
   width:224px;
   height:34px;
@@ -121,7 +130,7 @@
 #u79 {
   border-width:0px;
   position:absolute;
-  left:448px;
+  left:224px;
   top:0px;
   width:224px;
   height:34px;
@@ -148,15 +157,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:222px;
+  width:224px;
   height:34px;
 }
 #u80 {
   border-width:0px;
   position:absolute;
-  left:672px;
+  left:448px;
   top:0px;
-  width:222px;
+  width:224px;
   height:34px;
   display:flex;
   font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
@@ -176,7 +185,40 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u81_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:222px;
+  height:34px;
+}
 #u81 {
+  border-width:0px;
+  position:absolute;
+  left:672px;
+  top:0px;
+  width:222px;
+  height:34px;
+  display:flex;
+  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u81 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u81_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u82 {
   border-width:0px;
   position:absolute;
   left:24px;
@@ -184,7 +226,7 @@
   width:890px;
   height:750px;
 }
-#u81_input {
+#u82_input {
   border-width:2px;
   position:absolute;
   left:0px;
@@ -192,48 +234,6 @@
   width:890px;
   height:750px;
   overflow:auto;
-}
-#u82_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:894px;
-  height:402px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
-  font-style:normal;
-  font-size:23px;
-}
-#u82 {
-  border-width:0px;
-  position:absolute;
-  left:24px;
-  top:107px;
-  width:894px;
-  height:402px;
-  display:flex;
-  font-family:'AxureHandwriting', 'Axure Handwriting', sans-serif;
-  font-style:normal;
-  font-size:23px;
-}
-#u82 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u82_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
 }
 #u83_img {
   border-width:0px;
@@ -285,34 +285,4 @@
   width:890px;
   height:401px;
   overflow:auto;
-}
-#u85_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:186px;
-  height:140px;
-}
-#u85 {
-  border-width:0px;
-  position:absolute;
-  left:588px;
-  top:301px;
-  width:186px;
-  height:140px;
-  display:flex;
-}
-#u85 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u85_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
 }
